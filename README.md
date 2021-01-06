@@ -1,4 +1,4 @@
-![alt text](./materials/top.svg)
+![alt text](./materials/top.png)
 
 ---
 
@@ -20,9 +20,6 @@
 <p align="center">
     <img src = "https://komarev.com/ghpvc/?username=BearGrillz99&color=0d1117&style=flat-square">
 </p>
-
-
-![alt text](./materials/bottom.svg)
 
 <!--
 **atdepo/atdepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
