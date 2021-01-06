@@ -17,10 +17,6 @@
   <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
-<p align="center">
-    <img src = "https://komarev.com/ghpvc/?username=BearGrillz99&color=0d1117&style=flat-square">
-</p>
-
 <!--
 **atdepo/atdepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
