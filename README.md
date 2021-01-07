@@ -17,6 +17,10 @@
   <a href="https://dev.to/atdepo" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
+### 🚀 My Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=StefanoLambiase&repo=biblionet&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/StefanoLambiase/biblionet)
+
+
 <!--
 **atdepo/atdepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
