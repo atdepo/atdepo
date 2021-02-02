@@ -9,26 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-         
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_languages: yes
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_habits: yes
+      - name: GitHub metrics as SVG image
+        uses: lowlighter/metrics@v3.3
+
+
