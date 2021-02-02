@@ -21,13 +21,5 @@ jobs:
           config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
 
-      - name: 💬 Header (hidden features)
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.header.svg
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: header
-          debug_flags: --cakeday --hireable --halloween
 
 
