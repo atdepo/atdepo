@@ -26,6 +26,15 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: repositories
           plugin_lines: yes
+          
+      - name: 📗 Pull Request Metrics
+        uses: lowlighter/metrics@master
+        with:
+          filename: pull_metrics.svg
+          token: ${{ secrets.METRICS}}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: repsitories
+          plugin_followup: yes
 
 
 
