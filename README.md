@@ -13,6 +13,10 @@
         <summary>Full year version</summary>
         <img src="https://github.com/atdepo/atdepo/blob/main/full_year.svg">
       </details>
+      [![GitHub metrics](https://metrics.lecoq.io/atdepo?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
+      <p align="center">
+        <img src = "https://komarev.com/ghpvc/?username=atdepo&color=red">
+      </p>
     </td>
   </tr>
 </table>
@@ -31,10 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atdepo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub metrics](https://metrics.lecoq.io/atdepo?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
-<p align="center">
-  <img src = "https://komarev.com/ghpvc/?username=atdepo&color=red">
-</p>
+
 
 
 
