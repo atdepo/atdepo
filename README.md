@@ -13,10 +13,6 @@
         <summary>Full year version</summary>
         <img src="https://github.com/atdepo/atdepo/blob/main/full_year.svg">
       </details>
-      [![GitHub metrics](https://metrics.lecoq.io/atdepo?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
-      <p align="center">
-        <img src = "https://komarev.com/ghpvc/?username=atdepo&color=red">
-      </p>
     </td>
   </tr>
 </table>
