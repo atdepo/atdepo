@@ -1,16 +1,10 @@
 
 <table>
-  
-  <th align="center">It's me!</th>
-  <th align="center">Some metrics</th>
+
   <tr>
     <td align="center">
       <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/header.svg">
       <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/repo.svg">
-
-    </td>
-    <td align="center">
-      <img width="900" height="1" alt="">
     </td>
   </tr>
 </table>
