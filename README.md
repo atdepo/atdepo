@@ -6,6 +6,9 @@
       <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/header.svg">
       <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/repo.svg">
     </td>
+    <td>
+      <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/pull_metrics.svg">
+    </td>
   </tr>
 </table>
 
