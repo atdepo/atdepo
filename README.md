@@ -5,11 +5,11 @@
   <th align="center">Some metrics</th>
   <tr>
     <td align="center">
-      <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/metrics.classic.svg">
+      <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/metriche_profilo.svg">
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.organization.svg">
+      <!--<img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.organization.svg">-->
       <img width="900" height="1" alt="">
     </td>
   </tr>
