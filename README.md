@@ -1,9 +1,6 @@
 
 <table>
   <tr>
-  <th align="center">Some stats</th>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/header.svg">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/repo.svg">
@@ -13,7 +10,7 @@
         <summary>Full year version</summary>
         <img src="https://github.com/atdepo/atdepo/blob/main/full_year.svg">
       </details>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atdepo&bg_color=0F0F0F&text_color=FFF">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atdepo&bg_color=2F2F2F&text_color=FFF">
     </td>
   </tr>
 
