@@ -35,6 +35,19 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: repsitories
           plugin_followup: yes
+          
+      - name: 📗 Half year contributions 
+        uses: lowlighter/metrics@latest
+        with:
+          filename: half_year.svg  
+          plugin_isocalendar: yes
+         
+      - name: 📗 Full year contributions 
+        uses: lowlighter/metrics@latest
+        with:
+          filename: full_year.svg  
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
 
 
