@@ -1,9 +1,8 @@
-<img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/metrics.svg">
 
 <table>
   <tr>
     <td align="center">
-      <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/metrics.svg">
+      <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/metrics_classic.svg">
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
