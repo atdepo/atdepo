@@ -1,4 +1,4 @@
-<img align="center" width="600" src="https://github.com/atdepo/atdepo/blob/main/github-metrics.svg">
+<img align="center" width="500" src="https://github.com/atdepo/atdepo/blob/main/github-metrics.svg">
 
 ### 🚀 My Projects
 
