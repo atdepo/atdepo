@@ -1,11 +1,18 @@
 
 <table>
-
+  <tr>
+  <th align="center">Some stats</th>
+  </tr>
   <tr>
     <td align="center">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/header.svg">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/repo.svg">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/pull_metrics.svg">
+      <img src="https://github.com/atdepo/atdepo/blob/main/half_year.svg">
+      <details>
+        <summary>Full year version</summary>
+        <img src="https://github.com/atdepo/atdepo/blob/main/full_year.svg">
+      </details>
     </td>
   </tr>
 </table>
