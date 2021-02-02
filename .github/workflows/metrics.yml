@@ -14,7 +14,7 @@ jobs:
         with:
           template: repository
           filename: metrics.repository.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          token: ${{ secrets.METRICS}}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: atdepo
           base: header, repositories
