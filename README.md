@@ -14,6 +14,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atdepo&repo=csnake&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,0050FF,00AAFF)](https://github.com/atdepo/csnake)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub metrics](https://metrics.lecoq.io/atdepo?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
 <p align="center">
   <img src = "https://komarev.com/ghpvc/?username=atdepo&color=red">
