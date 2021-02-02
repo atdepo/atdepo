@@ -1,5 +1,18 @@
 <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/metrics.svg">
 
+<table>
+  <tr>
+    <td align="center">
+      <img alt="" width="600" src="https://github.com/atdepo/atdepo/blob/main/metrics.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.organization.svg">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
+
 ### 🚀 My Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=StefanoLambiase&repo=biblionet&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,FF4C1D,9B0063)](https://github.com/StefanoLambiase/biblionet)
