@@ -40,12 +40,16 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: half_year.svg  
+          token: ${{ secrets.METRICS}}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}  
           plugin_isocalendar: yes
          
       - name: 📗 Full year contributions 
         uses: lowlighter/metrics@latest
         with:
           filename: full_year.svg  
+          token: ${{ secrets.METRICS}}
+          committer_token: ${{ secrets.GITHUB_TOKEN }} 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
