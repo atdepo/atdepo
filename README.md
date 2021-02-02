@@ -18,7 +18,7 @@
 
 [![GitHub metrics](https://metrics.lecoq.io/atdepo?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
 <p align="center">
-  <img src = "https://komarev.com/ghpvc/?username=atdepo&color=red">
+  <img src = "https://komarev.com/ghpvc/?username=atdepo&color=blue">
 </p>
 
 
