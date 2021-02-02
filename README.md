@@ -13,8 +13,10 @@
         <summary>Full year version</summary>
         <img src="https://github.com/atdepo/atdepo/blob/main/full_year.svg">
       </details>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atdepo&bg_color=0F0F0F&text_color=FFF">
     </td>
   </tr>
+
 </table>
 
 ### 🚀 My Projects
@@ -29,17 +31,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atdepo&repo=csnake&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,0050FF,00AAFF)](https://github.com/atdepo/csnake)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atdepo)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-
-
-
-
----
 
 <h3 align="center">Let's Connect ☕</h3>
 <p align="center"> 
