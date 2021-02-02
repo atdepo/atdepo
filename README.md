@@ -7,10 +7,10 @@
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/repo.svg">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/pull_metrics.svg">
       <td align="center">
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/half_year.svg">
+      <img src="https://github.com/atdepo/atdepo/blob/main/half_year.svg">
       <details>
         <summary>Full year version</summary>
-        <img src="https://github.com/lowlighter/lowlighter/blob/master/full_year.svg">
+        <img src="https://github.com/atdepo/atdepo/blob/main/full_year.svg">
       </details>
       <img width="900" height="1" alt="">
   </td>
