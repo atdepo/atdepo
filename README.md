@@ -5,7 +5,6 @@
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/header.svg">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/repo.svg">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/pull_metrics.svg">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atdepo&bg_color=2F2F2F&text_color=FFF">
     </td>
   </tr>
 
