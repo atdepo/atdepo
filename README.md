@@ -21,7 +21,7 @@
 ### 😄 Fun Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atdepo&repo=csnake&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,0050FF,00AAFF)](https://github.com/atdepo/csnake)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atdepo&repo=csnake&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,0050FF,00AAFF)](https://github.com/atdepo/Crypto-Analizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atdepo&repo=Crypto-Analizer&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=35,0050FF,00AAFF)](https://github.com/atdepo/Crypto-Analizer)
 
 
 
