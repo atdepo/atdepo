@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="97" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="105" class="">
     <defs>
         <style/>
     </defs>
@@ -58,6 +58,11 @@
   }
   h3 {
     font-size: 14px;
+  }
+  .h-details {
+    margin: 0 4px;
+    padding-top: 4px;
+    font-size: 0.8rem;
   }
 
 /* Fields */
