@@ -251,6 +251,20 @@
     border-radius: 32px;
     font-size: 12px;
   }
+  .label.label-flex {
+    display: flex;
+  }
+  .label .label-right {
+    display: flex;
+    align-items: center;
+    font-size: .7rem;
+    margin-left: 6px;
+    margin-right: -10px;
+    background-color: #58A6FF10;
+    padding: 0 7px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+  }
 
 /* Habits */
   .habits {
@@ -910,6 +924,12 @@
     width: .8rem;
     height: .8rem;
   }
+  .field.contributors-category {
+    margin-left: 12px;
+  }
+  .contributors-categories img {
+    margin-right: 0;
+  }
 
 /* Introduction */
   .introduction {
@@ -1003,13 +1023,10 @@
     color: #E7BD69;
   }
   .achievement.s .title {
-    color: #FF0000;
+    color: #EB355E;
   }
   .achievement.s .gauge.info {
-    color: #FF0000;
-  }
-  .achievement.s .icon {
-    filter: sepia() saturate(100);
+    color: #EB355E;
   }
   .achievement.secret .title{
     color: #FF76CD;
@@ -1204,7 +1221,7 @@
                     <rect mask="url(#languages-bar)" x="426.08229376961947" y="0" width="15.347111199281155" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="441.42940496890054" y="0" width="13.153551313727757" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="454.58295628262834" y="0" width="2.4941678698695027" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.07712415249784" y="0" width="2.2760318812505105" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.07712415249784" y="0" width="2.2760318812505105" height="8" fill="#e38c00"/>
                     <rect mask="url(#languages-bar)" x="459.35315603374835" y="0" width="0.6468439662516191" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
@@ -1273,7 +1290,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e38c00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       TSQL
                     </div>
                             <small>
