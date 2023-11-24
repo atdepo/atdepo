@@ -1,5 +1,5 @@
 
-<table>
+<!--<table>
   <tr>
     <td align="center">
       <img alt="" width="500" src="https://github.com/atdepo/atdepo/blob/main/header.svg">
@@ -8,7 +8,7 @@
     </td>
   </tr>
 
-</table>
+</table>-->
 
 ### 🚀 My Projects
 
